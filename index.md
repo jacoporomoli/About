@@ -1,3 +1,6 @@
+<a href="./">Home</a>
+<a href="bib/">Publications</a>
+
 # Jacopo Romoli
 ### University of Bergen
 
