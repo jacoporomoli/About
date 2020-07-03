@@ -1,5 +1,5 @@
 <a href="./">Home</a>
-<a href="bib/">Publications</a>
+<a href="Bib">Publications</a>
 
 # Jacopo Romoli
 ### University of Bergen
