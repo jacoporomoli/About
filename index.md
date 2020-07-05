@@ -1,5 +1,5 @@
 <a href="./">Home</a>
-<a href="https://jacoporomoli.github.io/Bib/">Publications</a>
+<a href="https://jacoporomoli.github.io/Publications/">Publications</a>
 
 # Jacopo Romoli
 ### University of Bergen
