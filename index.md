@@ -1,6 +1,6 @@
-<a href="https://jacoporomoli.github.io/Home/">Home</a>&nbsp;&nbsp;
-<a href="https://jacoporomoli.github.io/Publications"> Publications</a>&nbsp;&nbsp;
-<a href="https://jacoporomoli.github.io/Teaching"> Teaching</a>&nbsp;&nbsp;
+<a href="https://jacoporomoli.github.io/Home/">Home</a>
+<a href="https://jacoporomoli.github.io/Publications"> Publications</a>
+<a href="https://jacoporomoli.github.io/Teaching"> Teaching</a>
 <a href="https://jacoporomoli.github.io/CV/"> CV</a>
 
 # Jacopo Romoli
