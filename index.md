@@ -6,8 +6,7 @@
 # Jacopo Romoli
 ### University of Bergen
 
-<img src="https://user-images.githubusercontent.com/22214308/87061764-14a16280-c204-11ea-8643-a44c96b55b39.jpg" align="left" class="padding"/>
-I am a Senior Lecturer and Director of the Master in Linguistics at Ulster University in Belfast. Starting in August 2020, I will be an Associate Professor in English Linguistics at the University of Bergen. I am also Honorary Associate Professor at UCL in London.
+![MyPic thumb1](https://user-images.githubusercontent.com/22214308/87098123-80082600-c23e-11ea-8e02-4c1b3d4f9a83.png) I am a Senior Lecturer and Director of the Master in Linguistics at Ulster University in Belfast. Starting in August 2020, I will be an Associate Professor in English Linguistics at the University of Bergen. I am also Honorary Associate Professor at UCL in London.
 
 I was also an Associate Investigator at the Australian Research Council’s Centre of Excellence in Cognition and its Disorders from 2012 to 2018 and I was a Postdoctoral Fellow in the Cognitive Science Department at Macquarie University in Sydney. I received my PhD from Harvard University. My thesis chairs were Gennaro Chierchia, Danny Fox, Irene Heim, and Bernhard Nickel.
 
