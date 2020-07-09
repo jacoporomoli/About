@@ -1,7 +1,7 @@
-<a href="https://jacoporomoli.github.io/Home/">Home</a>&nbsp;
-<a href="https://jacoporomoli.github.io/Publications">Publications</a>&nbsp;
-<a href="https://jacoporomoli.github.io/Teaching">Teaching</a>&nbsp;
-<a href="https://jacoporomoli.github.io/CV/">CV</a>
+<a href="https://jacoporomoli.github.io/Home/">Home</a>&nbsp;&nbsp;
+<a href="https://jacoporomoli.github.io/Publications"> Publications</a>&nbsp;&nbsp;
+<a href="https://jacoporomoli.github.io/Teaching"> Teaching</a>&nbsp;&nbsp;
+<a href="https://jacoporomoli.github.io/CV/"> CV</a>
 
 # Jacopo Romoli
 ### University of Bergen
