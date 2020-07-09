@@ -12,7 +12,7 @@ I was also an Associate Investigator at the Australian Research Council’s Cent
 
 My research is interdisciplinary in nature and lies at the intersection between Linguistics, Philosophy of language and Psycholinguistics. In my work, I focus on the study of meaning and how it interfaces with linguistic knowledge and general cognition. I fully integrate theoretical and experimental perspectives, working on theoretical models and testing their fine-grained predictions with different psycholinguistic methods in different populations and languages.
 
-My research has been funded by the  Leverhulme Trust, the British Academy, the Big Lottery Fund and Xprag.de.  You can find <a href="https://jacoporomoli.github.io/CV/">my CV here</a>.
+My research has been funded by the  Leverhulme Trust, the British Academy, the Big Lottery Fund and Xprag.de.  You can find <a href="https://jacoporomoli.github.io/CV/cv20.pdf">my CV here</a>.
 
 This year I am visiting UCL to work on a project investigating theories of alternatives for implicatures computation, funded by the Leverhulme Trust, in collaboration with Richard Breheny, Yasutada Sudo and Paul Marty.
 
