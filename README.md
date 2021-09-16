@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Jacopo Romoli
 
-You can use the [editor on GitHub](https://github.com/jacoporomoli/about/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jacoporomoli/about/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am Professor of English Linguistics at the University of Bergen.  I am also Honorary Associate Professor at UCL in London.
+Before coming to Bergen, I was Senior Lecturer and Director of the Master in Linguistics at Ulster University in Belfast. I was also an Associate Investigator at the Australian Research Council’s Centre of Excellence in Cognition and its Disorders from 2012 to 2018. Before that I was a Postdoctoral Fellow in the Cognitive Science Department at Macquarie University in Sydney. I received my PhD from Harvard University. My thesis chairs were Gennaro Chierchia, Danny Fox, Irene Heim, and Bernhard Nickel.
+My research is interdisciplinary in nature and lies at the intersection between Linguistics, Philosophy of language and Psycholinguistics. In my work, I focus on the study of meaning and how it interfaces with linguistic knowledge and general cognition. I fully integrate theoretical and experimental perspectives, working on theoretical models and testing their fine-grained predictions with different psycholinguistic methods in different populations and languages.
+My research has been funded by the AHRC, the DFG, the Leverhulme Trust, the British Academy, the Big Lottery Fund and Xprag.de.  You can find my CV here.
+Since last year, I am working on a three-year project investigating theories of alternatives for implicatures computation, funded by the Leverhulme Trust, in collaboration with Richard Breheny, Yasutada Sudo and Paul Marty. You can read more about the project here.
+From next year, I will be working with Richard Breheny, Yasutada Sudo, Clemens Mayr, Cornelia Ebert, and Markus Steinbach on a project on the interaction between dynamic effects and alternative-based inferences. You can read more about the project here.
+I also work on public outreach and engagement. Since 2006, I am part of the organization of the National Geographic Science Festival in Rome. Since 2012, I am the Scientific Director of the Festival.
