@@ -6,7 +6,7 @@
 # Jacopo Romoli
 ### Heinrich-Heine Universität, Düsseldorf
 
-<img src="https://user-images.githubusercontent.com/22214308/87098307-e1c89000-c23e-11ea-9982-1a8a6afd1673.png" alt="Me" align="left"> I am Professor of Semantics at Heinrich-Heine Universität in Düsseldorf. I am also Honorary Associate Professor at UCL in London.
+<img src="https://user-images.githubusercontent.com/22214308/87098307-e1c89000-c23e-11ea-9982-1a8a6afd1673.png" alt="Me" align="left"> I am Professor of Semantics at <a href="https://www.isi.hhu.de/en/departments/semantics">Heinrich-Heine Universität in Düsseldorf</a>. I am also Honorary Associate Professor at UCL in London.
 
 Before coming to Düsseldorf, I was Professor of English Linguistics at the University of Bergen,  and Senior Lecturer and Director of the Master in Linguistics at Ulster University in Belfast. I was also an Associate Investigator at the Australian Research Council’s Centre of Excellence in Cognition and its Disorders from 2012 to 2018. Before that I was a Postdoctoral Fellow in the Cognitive Science Department at Macquarie University in Sydney. I received my PhD from Harvard University. My thesis chairs were Gennaro Chierchia, Danny Fox, Irene Heim, and Bernhard Nickel.
 
